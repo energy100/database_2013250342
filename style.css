@@ -1,0 +1,67 @@
+  header{
+    border-bottom : solid gray 1px;
+    padding: 20px;
+  }
+  nav{
+    border-right : solid gray 1px;
+    width:200px;
+    float: left;
+    height: 600px;
+
+  }
+
+  nav ol{
+    list-style: none;
+    padding: 0;
+  }
+
+  article{
+    float: left;
+    padding : 20px;
+    width : 10px;
+  }
+  #control{
+    float : right;
+  }
+
+  body.black{
+    background-color: black;
+    color:white;
+  }
+  body.white{
+    backgorund-color: white;
+    color:black;
+  }
+
+  header img{
+  float: right;
+  height:100px;
+
+}
+
+#frm{
+  width : 20%;
+  border-radius: 5px;
+}
+
+h1{
+  color : #555;
+}
+#btn{
+  margin-left: 70%;
+}
+
+h5{
+  color : grey;
+  margin : 0;
+}
+
+signTemplate{
+  align-self: center;
+  background-color: grey;
+}
+
+head.h6{
+  color : red;
+  float : right;
+}
